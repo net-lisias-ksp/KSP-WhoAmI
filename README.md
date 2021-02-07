@@ -3,6 +3,9 @@
 Identify your kerbals in IVA
 
 # Changelog
+## Version 1.3.0
+- Recompile for KSP 1.11.1
+
 ## Version 1.2.0
 - Recompile for KSP 1.10
 
