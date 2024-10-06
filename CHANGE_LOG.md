@@ -1,4 +1,4 @@
-# KSP-WhoAmI :: Change Log
+# Who Am I? :: Change Log
 
 * 2021-0708: 1.4.0 (maja) for KSP 1.12.5
 	+ Changes

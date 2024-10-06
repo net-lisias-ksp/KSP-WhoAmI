@@ -1,4 +1,4 @@
-# KSP-WhoAmI :: Known Issues
+# Who Am I? :: Known Issues
 
 None at this moment... :)
 

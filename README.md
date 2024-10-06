@@ -1,4 +1,4 @@
-# KSP-WhoAmI /L
+# Who Am I? /L
 
 Identify your Kerbals in IVA.
 
