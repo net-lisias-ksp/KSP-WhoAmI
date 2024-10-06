@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhoAmI", "WhoAmI\WhoAmI.csproj", "{DF9818B3-D201-4AAF-BC1D-8FDF67FB7A95}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhoAmI", "Source\WhoAmI\WhoAmI.csproj", "{DF9818B3-D201-4AAF-BC1D-8FDF67FB7A95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
