@@ -1,5 +1,7 @@
 # KSP-WhoAmI :: Change Log
 
+* 2021-0207: 1.3.0 (maja) for KSP 1.11.2
+	+ KSP 1.11+ compatibility
 * 2020-0720: 1.2.0 (maja) for KSP 1.10.1
 	+ KSP 1.10+ compatibility
 * 2019-1020: 1.1.0 (maja) for KSP 1.8.1
