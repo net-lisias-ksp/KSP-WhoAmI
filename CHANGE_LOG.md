@@ -1,5 +1,7 @@
 # KSP-WhoAmI :: Change Log
 
+* 2018-1019: 1.0.6 (maja) for KSP 1.5.1
+	+ Recompile for KSP 1.5
 * 2018-0314: 1.0.5 (maja) for KSP 1.4.1
 	+ Recompile for KSP 1.4.1
 * 2017-1011: 1.0.4 (maja) for KSP 1.3.1
