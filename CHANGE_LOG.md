@@ -1,5 +1,9 @@
 # KSP-WhoAmI :: Change Log
 
+* 2017-0529: 1.0.3 (RealGecko) for KSP 1.3.0
+	+ Added kerbonaut level info
+	+ Messages are shown via ScreenMessages
+	+ Modifier Key + B brings up transfer dialog
 * 2016-1012: 1.0.2 (RealGecko) for KSP 1.2.2
 	+ Recompile for KPS 1.2
 * 2016-0710: 1.0.1 (RealGecko) for KSP 1.1.3
