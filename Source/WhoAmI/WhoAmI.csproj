@@ -9,7 +9,7 @@
     <AssemblyName>WhoAmI</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <TargetFrameworkProfile />
-    <BaseIntermediateOutputPath>..\..\obj\KSP-WhoAmI</BaseIntermediateOutputPath>
+    <BaseIntermediateOutputPath>..\..\obj\WhoAmI</BaseIntermediateOutputPath>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
