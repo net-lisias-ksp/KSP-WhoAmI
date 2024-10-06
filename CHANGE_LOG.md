@@ -1,6 +1,6 @@
 # Who Am I? :: Change Log
 
-* 2024-1006: 1.5.0 (LisiasT) for KSP 1.12.5
+* 2024-1006: 1.5.0 (LisiasT) for KSP >= 1.3
 	+ Initial version under LisiasT's stewardship.
 * 2021-0708: 1.4.0 (maja) for KSP 1.12.5
 	+ Changes

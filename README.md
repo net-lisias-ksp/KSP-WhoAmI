@@ -7,22 +7,22 @@ Identify your Kerbals in IVA.
 
 * Documentation
 <!--	+ [Homepage](http://ksp.lisias.net/add-ons/KSP-WhoAmI/) on L Aerospace -->
-	+ [Project's README](https://github.com/net-lisias-ksp/KSP-WhoAmI/blob/master/README.md)
-	+ [Install Instructions](https://github.com/net-lisias-ksp/KSP-WhoAmI/blob/master/INSTALL.md)
+	+ [Project's README](https://github.com/net-lisias-ksp/WhoAmI/blob/master/README.md)
+	+ [Install Instructions](https://github.com/net-lisias-ksp/WhoAmI/blob/master/INSTALL.md)
 	+ [Change Log](./CHANGE_LOG.md)
 	+ [Known Issues](./KNOWN_ISSUES.md)
-	+ [Road Map](https://github.com/net-lisias-ksp/KSP-WhoAmI/blob/master/ROAD_MAP.md)
+	+ [Road Map](https://github.com/net-lisias-ksp/WhoAmI/blob/master/ROAD_MAP.md)
 * Official Distribution Sites:
 <!--	+ [CurseForge](https://kerbal.curseforge.com/projects/KSP-WhoAmI) -->
 <!--	+ [SpaceDock](https://spacedock.info/mod/127/KSP-WhoAmI) -->
-	+ [Latest Release](https://github.com/net-lisias-ksp/KSP-WhoAmI/releases)
-		- [Archive](https://github.com/net-lisias-ksp/KSP-WhoAmI/tree/Archive)
+	+ [Latest Release](https://github.com/net-lisias-ksp/WhoAmI/releases)
+		- [Archive](https://github.com/net-lisias-ksp/WhoAmI/tree/Archive)
 * Support
 	+ [Homepage](http://ksp.lisias.net/add-ons/KSP-WhoAmI/Support/) on L Aerospace
 <!--	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/*-*/) -->
-<!--	+ [Discussions on Github](https://github.com/net-lisias-ksp/KSP-WhoAmI/discussions/categories/support) -->
-* [Source](https://github.com/net-lisias-ksp/KSP-WhoAmI)
-	+ [Issue Tracker](https://github.com/net-lisias-ksp/KSP-WhoAmI/issues)
+<!--	+ [Discussions on Github](https://github.com/net-lisias-ksp/WhoAmI/discussions/categories/support) -->
+* [Source](https://github.com/net-lisias-ksp/WhoAmI)
+	+ [Issue Tracker](https://github.com/net-lisias-ksp/WhoAmI/issues)
 
 
 ## Description
