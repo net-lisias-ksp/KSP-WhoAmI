@@ -1,6 +1,8 @@
 ﻿/*
 	This file is part of KSP-WhoAmI
 		© 2024 LisiasT : http://lisias.net <support@lisias.net>
+		© 2018-2024 Maja
+		© 2016-2018 RealGecko
 
 	THIE FILE is licensed to you under:
 

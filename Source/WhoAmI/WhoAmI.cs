@@ -1,6 +1,8 @@
 ﻿/*
 	This file is part of Who Am I? /L
 		© 2024 LisiasT : http://lisias.net <support@lisias.net>
+		© 2018-2024 Maja
+		© 2016-2018 RealGecko
 
 	Who Am I? /L is licensed as follows:
 		* GPL 3.0 : https://www.gnu.org/licenses/gpl-3.0.txt
